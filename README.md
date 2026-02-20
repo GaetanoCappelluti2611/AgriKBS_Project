@@ -46,6 +46,6 @@ Assicurati di aver installato SWI-Prolog sul tuo sistema operativo e che sia sta
 Clona la repository e installa i pacchetti richiesti:
 
 ```bash
-git clone [INSERISCI_QUI_IL_LINK_DELLA_TUA_REPO]
+git clone https://github.com/GaetanoCappelluti2611/AgriKBS_Project.git
 cd AgriKBS_Project
 pip install -r requirements.txt
