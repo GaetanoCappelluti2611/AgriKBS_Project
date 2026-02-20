@@ -1,0 +1,6 @@
+pyswip
+pgmpy
+pandas
+scikit-learn
+numpy
+matplotlib
